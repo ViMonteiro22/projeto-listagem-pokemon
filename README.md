@@ -10,8 +10,8 @@ O projeto é estruturado da seguinte forma:
 ├── imagens
 │   ├── blastoise.gif
 │   ├── charmander.gif
-│   └── squirtle.gif
-│   └── outros
+│   ├── venusaur.gif
+│   ├── outros
 └── README.md
 ## Contribuição
 Este projeto é bastante básico, mas você é bem-vindo(a) para contribuir de várias maneiras:
